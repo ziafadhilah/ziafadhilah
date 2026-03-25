@@ -1,27 +1,87 @@
-# Hi, I'm Zia Fadhilah 👋
+# 👋 Hi, I'm Zia Fadhilah
 
-🚀 Fullstack Developer  
-💻 Specializing in Next.js, Laravel, and scalable web applications  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=4DA6FF&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Next.js+%7C+Laravel+%7C+TypeScript;Building+Scalable+Web+Applications;Clean+Code+%26+Modern+Architecture" />
+</p>
+
+---
+
+## 🚀 About Me
+
+* 💻 Fullstack Developer
+* ⚡ Focus on scalable, performant web apps
+* 🧠 Strong in frontend & backend architecture
+* 🌍 Based in Indonesia
 
 ---
 
 ## 🌐 Portfolio
-👉 https://ziafadhilah.vercel.app
+
+👉 **https://ziafadhilah.vercel.app**
+
+---
+
+## 🧩 Featured Projects
+
+* 🚀 **ECC Frontend**
+  👉 https://ziafadhilah.vercel.app/projects/ecc-fe
+
+* ⚙️ **ECC Backend API**
+  👉 https://ziafadhilah.vercel.app/projects/ecc-be
 
 ---
 
 ## 🛠 Tech Stack
-- Frontend: Next.js, React, TypeScript, Tailwind
-- Backend: Laravel, REST API
-- Database: MySQL
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,laravel,mysql,git,github,vscode" />
+</p>
 
 ---
 
-## 📫 Connect with me
-- GitHub: https://github.com/ziafadhilah
-- LinkedIn: https://www.linkedin.com/in/ziafadhilah
-- Facebook: https://facebook.com/ziafadhilah
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ziafadhilah&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ziafadhilah&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ---
 
-✨ Always building scalable and impactful digital products
+## 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziafadhilah&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/ziafadhilah">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ziafadhilah">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://facebook.com/ziafadhilah">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ziafadhilah&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## ✨ Quote
+
+> "Build scalable systems. Write clean code. Deliver real impact."
+
+---
