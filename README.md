@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Zia Fadhilah 👋
 
-<!--
-**ziafadhilah/ziafadhilah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Fullstack Developer  
+💻 Specializing in Next.js, Laravel, and scalable web applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Portfolio
+👉 https://ziafadhilah.vercel.app
+
+---
+
+## 🛠 Tech Stack
+- Frontend: Next.js, React, TypeScript, Tailwind
+- Backend: Laravel, REST API
+- Database: MySQL
+
+---
+
+## 📫 Connect with me
+- GitHub: https://github.com/ziafadhilah
+- LinkedIn: https://www.linkedin.com/in/ziafadhilah
+- Facebook: https://facebook.com/ziafadhilah
+
+---
+
+✨ Always building scalable and impactful digital products
