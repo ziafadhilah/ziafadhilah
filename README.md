@@ -21,14 +21,6 @@
 
 ---
 
-## 🧩 Featured Projects
-
-* 🚀 **ECC Frontend**
-  👉 https://ziafadhilah.vercel.app/projects/ecc-fe
-
-* ⚙️ **ECC Backend API**
-  👉 https://ziafadhilah.vercel.app/projects/ecc-be
-
 ---
 
 ## 🛠 Tech Stack
