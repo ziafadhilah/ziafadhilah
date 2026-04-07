@@ -29,15 +29,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ziafadhilah&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ziafadhilah&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
@@ -59,11 +50,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ziafadhilah&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
-
----
-
-## ✨ Quote
-
-> "Build scalable systems. Write clean code. Deliver real impact."
 
 ---
