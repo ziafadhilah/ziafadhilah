@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 * 💻 Fullstack Developer
-* ⚡ Focus on scalable, performant web apps
+* ⚡ Focus on scalable, performance web apps
 * 🧠 Strong in frontend & backend architecture
 * 🌍 Based in Indonesia
 
